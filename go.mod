@@ -97,7 +97,7 @@ require (
 	honnef.co/go/tools v0.0.1-2020.1.4 // indirect
 	k8s.io/api v0.18.8
 	k8s.io/apimachinery v0.18.8
-	k8s.io/client-go v0.18.8
+	k8s.io/client-go v0.20.4
 	k8s.io/klog/v2 v2.4.0
 	k8s.io/kubectl v0.0.0
 	k8s.io/kubernetes v1.18.5
